@@ -1,6 +1,8 @@
 Hi there👋
 My name is Jack Sample, a beginner software engineer and upcoming graphic designer and modeler!
 I am currently waiting to start my first project, but I will be pushing some soon!
+Portfolio Website coming soon 🔜!
+Please visit my 🔗LinkedIn at https://www.linkedin.com/in/jack-sample/
 
 - 🔭 I’m currently working on completing my Bachelors of Science in Software Engineering at Clarkson University.
 - 🌱 I’m currently learning Website Design and Python Programming via Udemy online classes.
@@ -24,6 +26,4 @@ I am currently waiting to start my first project, but I will be pushing some soo
     - 💻 Intro to UI/UX Design
     - 🎨 Graphic Design Masterclass
     - ✏ Pixel Art for Video Games
-
 -🔗 Please visit my LinkedIn at https://www.linkedin.com/in/jack-sample/
--🔜 Portfolio Website coming soon!
