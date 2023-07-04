@@ -26,4 +26,5 @@ I am currently waiting to start my first project, but I will be pushing some soo
     - ✏ Pixel Art for Video Games
 
 -🔗 Please visit my LinkedIn at https://www.linkedin.com/in/jack-sample/
+-🔜 Portfolio Website coming soon!
 
