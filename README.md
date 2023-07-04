@@ -1,16 +1,29 @@
-### Hi there 👋
+Hi there👋
+My name is Jack Sample, a beginner software engineer and upcoming graphic designer and modeler!
+I am currently waiting to start my first project, but I will be pushing some soon!
 
-<!--
-**jsampdev/jsampdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on completing my Bachelors of Science in Software Engineering at Clarkson University.
+- 🌱 I’m currently learning Website Design and Python Programming via Udemy online classes.
+- 💬 Feel free to contact me about project ideas or if you are hiring!
+- 📫 How to reach me: samplejack10@gmail.com
+- ⚡ Coding classes I plan to complete on Udemy:
+    - 🐍 Complete Python Developer 2023 (CURRENTLY STUDYING)
+    - 💻 Complete Web Developer 2023 (CURRENTLY STUDYING)
+    - 🔰 Beginning C++ Programming: Beginner to Beyond
+    - ☕ Java Programming Masterclass
+    - 🐘 PHP for Beginners - Becoming a PHP Master
+    - 🍎 Complete iOS App Development Bootcamp
+    - 🤖 Complete Machine Learning and Data Science Bootcamp
+    - 🛡️ Cyber Security: From Beginner to Expert
+    - ⛔ Complete Ethical Hacking Bootcamp 2023
+    - 🌐 Complete React Developer 2023
+    - 📜 JavaScript Web Projects
+    - 💾 Complete SQL and Databases Bootcamp
+- 🖌️ Design classes I plan to complete on Udemy:
+    - 🖍 Complete Blender Creator: Learn 3D Modelling for Beginners
+    - 💻 Intro to UI/UX Design
+    - 🎨 Graphic Design Masterclass
+    - ✏ Pixel Art for Video Games
 
-Here are some ideas to get you started:
+-🔗 Please visit my LinkedIn at https://www.linkedin.com/in/jack-sample/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
