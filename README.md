@@ -7,7 +7,7 @@ My name is Jack Sample, a beginner software engineer and upcoming graphic design
 - 🌱 I’m currently learning Website Design and Python Programming via Udemy online classes.
 - 💬 Feel free to contact me about project ideas or if you are hiring!
 - 📫 How to reach me: samplejack10@gmail.com
-- ⚡ Coding classes I plan to complete on Udemy:
+- ⚡ Coding classes I am taking on Udemy:
     - 🐍 Complete Python Developer 2023 (CURRENTLY STUDYING)
     - 💻 Complete Web Developer 2023 (CURRENTLY STUDYING)
     - 🔰 Beginning C++ Programming: Beginner to Beyond
@@ -20,9 +20,8 @@ My name is Jack Sample, a beginner software engineer and upcoming graphic design
     - 🌐 Complete React Developer 2023
     - 📜 JavaScript Web Projects
     - 💾 Complete SQL and Databases Bootcamp
-- 🖌️ Design classes I plan to complete on Udemy:
+- 🖌️ Design classes I am taking on Udemy:
     - 🖍 Complete Blender Creator: Learn 3D Modelling for Beginners
     - 💻 Intro to UI/UX Design
     - 🎨 Graphic Design Masterclass
     - ✏ Pixel Art for Video Games
--🔗 Please visit my LinkedIn at https://www.linkedin.com/in/jack-sample/
