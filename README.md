@@ -25,3 +25,5 @@ My name is Jack Sample, a beginner software engineer and upcoming graphic design
     - 💻 Intro to UI/UX Design
     - 🎨 Graphic Design Masterclass
     - ✏ Pixel Art for Video Games
+
+--- ### :fire: My Stats
