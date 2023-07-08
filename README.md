@@ -52,7 +52,7 @@ My name is Jack Sample, a beginner software engineer and upcoming graphic design
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsampdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <style>
-    .nav-links a{
+    .nav-links {
           text-decoration: unset;
           color: white;
           font-family: "Poppins";
