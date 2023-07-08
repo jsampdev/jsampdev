@@ -81,7 +81,7 @@ My name is Jack Sample, a beginner software engineer and upcoming graphic design
 }
 </style>
 <div class = "nav-links">
-    <a href="about.html">
+    <a class = "nav-links" href="about.html">
         About
     </a>
 </div>
