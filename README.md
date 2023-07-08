@@ -47,7 +47,34 @@ My name is Jack Sample, a beginner software engineer and upcoming graphic design
 --- 
 ### :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=jsampdev&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
-<br>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsampdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a "style =   text-decoration: unset;
+  color: white;
+  font-family: "Poppins";
+  letter-spacing: 2px;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 900;
+  display: flex;
+  flex-direction: row;
+  width: 150px;
+  color: white;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  background-color: #0712a0;
+  padding: 10px;
+  font-size: 18px;
+  margin: 0 15px 0 15px;
+  border-radius: 100px;
+  -webkit-box-shadow: -15px 12px 25px -5px #6d6e75;
+  -moz-box-shadow: -15px 12px 25px -5px #6d6e75;
+  box-shadow: -15px 12px 25px -5px #6d6e75;
+  -webkit-transition: width 1s ease, .5s ease;
+  -moz-transition: width 1s ease, .5s ease;
+  transition: width 1s ease, .5s ease;" href="about.html">About</a>
 
