@@ -1,3 +1,5 @@
+![Screenshot 2023-07-04 203839](https://github.com/jsampdev/jsampdev/assets/138529657/a2a9d3f3-e9ac-4af3-a11b-c201772ce83a)
+---
 ### 📘 About Me
 
 My name is Jack Sample, a beginner software engineer and upcoming graphic designer and modeler! I am currently waiting to start my first project, but I will be pushing some soon!
