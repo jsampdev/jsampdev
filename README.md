@@ -2,7 +2,7 @@
 
 My name is Jack Sample, a beginner software engineer and upcoming graphic designer and modeler! I am currently waiting to start my first project, but I will be pushing some soon!
 
-- 🔜 Portfolio Website coming soon!
+- 🔜 Portfolio Website coming soon! (Check Portfolio Website Repository: https://github.com/jsampdev/Portfolio-Webpage)
 - 🔗 Please visit my LinkedIn at https://www.linkedin.com/in/jack-sample/
 - 🔭 I’m currently working on completing my Bachelors of Science in Software Engineering at Clarkson University.
 - 🌱 I’m currently learning Website Design and Python Programming via Udemy online classes.
