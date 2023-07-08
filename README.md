@@ -51,8 +51,7 @@ My name is Jack Sample, a beginner software engineer and upcoming graphic design
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsampdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
-    <a "style =   text-decoration: unset;
+<div "style =   text-decoration: unset;
       color: white;
       font-family: "Poppins";
       letter-spacing: 2px;
@@ -76,7 +75,8 @@ My name is Jack Sample, a beginner software engineer and upcoming graphic design
       box-shadow: -15px 12px 25px -5px #6d6e75;
       -webkit-transition: width 1s ease, .5s ease;
       -moz-transition: width 1s ease, .5s ease;
-      transition: width 1s ease, .5s ease;" href="about.html">
+      transition: width 1s ease, .5s ease;">
+    <a href="about.html">
         About
     </a>
 </div>
