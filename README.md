@@ -1,5 +1,5 @@
 ---
-### :blue_book: My Stats
+### :blue_book: About Me
 Hi there👋
 My name is Jack Sample, a beginner software engineer and upcoming graphic designer and modeler! I am currently waiting to start my first project, but I will be pushing some soon!
 
