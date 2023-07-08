@@ -1,4 +1,4 @@
-### :fire: My Stats
+### 📘: About Me
 
 My name is Jack Sample, a beginner software engineer and upcoming graphic designer and modeler! I am currently waiting to start my first project, but I will be pushing some soon!
 
@@ -26,7 +26,8 @@ My name is Jack Sample, a beginner software engineer and upcoming graphic design
     - 💻 Intro to UI/UX Design
     - 🎨 Graphic Design Masterclass
     - ✏ Pixel Art for Video Games
- 
+ ---
+ ### 💻 Language Proficiencies 
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
